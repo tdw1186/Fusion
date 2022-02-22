@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1900px;
+    height: 1800px;
+    margin: 0 auto;
+    
+}
+
+/***header***/
+
+
+header {
+    background: url("../img/background_image.png");
+    height: 1000px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+.header-title-1 {
+    color: white;
+    font-family: merriweather;
+    font-weight: 400;
+    font-size: 55px;
+    padding: 61px 42px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    margin-top: 274px;
+    width: 730px;
+        
+}
+
+.header-title-1 span {
+    color: #f7ac53;
+}
+
+
+.header-title-2 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-top: 45px;
+}
+.header-title-2 span {
+    color: #f7ac53;
+}
+
+/***bottom header buttons***/
+
+header nav {
+   
+    padding-top: 175px;
+    justify-content: space-evenly;
+    
+}
+
+header nav ul li {
+    list-style-type: none;
+    display: inline;
+    float: left;
+}
+
+.fusion {
+    padding-left: 474px;
+    padding-right: 425px;
+}
+
+.arrow {
+    padding-right: 433px;
+}
+
+.touch {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    
+}
+
+.aright {
+    padding-left: 6px;
+    
+}
+
+
+
+/****services section******/
+
+
+main {
+    height: 820px;
+    width: auto;
+    background-color: black;
+    text-align: center;
+}
+
+.services {
+    color: #feb960;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 5px;
+}
+.team {
+    color: white;
+    font-family: merriweather;
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 100px;
+    padding-bottom: 60px;
+}
+
+/****bottom sections *****/
+
+
+.our-services section {
+    width: 1900px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.strategy {
+    
+    float:left;
+    overflow: auto;
+    height: auto;
+    width: 238px;
+    text-align: left;
+    margin-left: 498px;
+    
+}
+
+.strategy h3 {
+    color: white;
+    font-family: merriweather;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 37px;
+    padding-bottom: 24px;
+}
+.strategy p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    padding-bottom: 24px;
+}
+.strategy h4 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.branding {
+    float: left;
+    overflow: auto;
+    height: auto;
+    width: 238px;
+    text-align: left;
+    margin-left: 102px;
+}
+
+.branding h3 {
+    color: white;
+    font-family: merriweather;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 37px;
+    padding-bottom: 24px;
+}
+.branding p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    padding-bottom: 24px;
+}
+.branding h4 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.design {
+    float: left;
+    overflow: auto;
+    height: auto;
+    width: 238px;
+    text-align: left;
+    margin-left: 141px;
+    
+}
+
+.design h3 {
+    color: white;
+    font-family: merriweather;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 37px;
+    padding-bottom: 24px;
+}
+.design p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    padding-bottom: 24px;
+}
+.design h4 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
